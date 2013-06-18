@@ -1,6 +1,6 @@
 name             'victorpantoja-myface'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'globo.com'
+maintainer_email 'victor.pantoja@corp.globo.com'
 license          'All rights reserved'
 description      'Installs/Configures victorpantoja-myface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
